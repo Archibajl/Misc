@@ -1,0 +1,13 @@
+*.imi
+*.xml
+*.ipynb
+*.db
+*.idb
+*.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+Debug
+.vs
+.idea
